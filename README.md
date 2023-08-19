@@ -1,7 +1,6 @@
 # Dataset of MAX for Al-ion battery
 
-In our work of [Computational investigation of MAX as intercalation host for rechargeable aluminum-ion battery](to_be_added), we 
-developed a computational dataset with 425 Tenary MAX materials that can potentially be intercalation host of Al-ion
+In our work of [Computational investigation of MAX as intercalation host for rechargeable aluminum-ion battery](https://chemrxiv.org/engage/chemrxiv/article-details/64d9253469bfb8925ae0185e), we developed a computational dataset with 425 Tenary MAX materials that can potentially be intercalation host of Al-ion
 
 ## Phase Diagrams
 The phase diagrams of all screened compounds can be illustrated by the phase diagrams under `./PhaseDiagrams`
