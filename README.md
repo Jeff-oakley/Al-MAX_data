@@ -35,7 +35,7 @@ please consider cite our paper
 @article{Al-MAX,
   title={Computational investigation of MAX as intercalation host for rechargeable aluminum-ion battery},
   author={Wang, Lin and Wang, Jingyang and Ouyang, Bin},
-  journal={XXXXXX},
+  journal={10.26434/chemrxiv-2023-l672b},
   year={2023}
 }
 ```
